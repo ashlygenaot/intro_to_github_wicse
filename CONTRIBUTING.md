@@ -53,3 +53,12 @@ Write clear and descriptive commit messages.
 Add Ashly's profile
 Add participant profile
 Update workshop README
+```
+
+### Bad
+```text
+stuff
+changes
+fixed it lol
+asdf
+```
