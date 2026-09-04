@@ -211,10 +211,10 @@ Option 3 — Add Something Extra
 
 Add another section to your participant profile, such as:
 
-Favorite programming language
-Career goal
-Favorite project
-Fun fact
+- Favorite programming language
+- Career goal
+- Favorite project
+- Fun fact
 
 ---
 ## Questions?
