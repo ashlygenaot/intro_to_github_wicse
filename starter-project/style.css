@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+main {
+    text-align: center;
+}
+
+h1 {
+    margin-bottom: 10px;
+}
