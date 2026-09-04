@@ -62,3 +62,11 @@ changes
 fixed it lol
 asdf
 ```
+## Pull Requests
+Your pull request should:
+
+- Have a clear title
+- Explain what you changed
+- Include only the changes related to your contribution
+--- 
+### If you get stuck, ask a workshop presenter for help!
