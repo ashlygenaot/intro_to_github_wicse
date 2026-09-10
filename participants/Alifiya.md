@@ -1,0 +1,6 @@
+- Name: Alifiya
+- Major: Busines Analyics & AI
+- School: USF
+- Year: 2027
+- Currently learning: Github
+- GitHub: alifiyashabbir
