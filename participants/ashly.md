@@ -1,0 +1,6 @@
+- Name: Ashly Genao Taveras
+- Major: CS
+- School: USF
+- Year: Junior
+- Currently learning: C
+- GitHub: ashlygenaot
