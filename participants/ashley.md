@@ -1,0 +1,6 @@
+- Name: Ashley Wilkinson
+- Major: Computer Engineering
+- School: University of South Florida
+- Year: 3
+- Currently learning: Git!
+- GitHub: @ashley-wilkinson
