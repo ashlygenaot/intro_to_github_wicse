@@ -1,6 +1,6 @@
 Name: Daniya
 - Major: Cybersecurity
 - School: USF Bellini
-- Year: 2026
+- Year: Freshman
 - Currently learning: Coding
-- GitHub: I'm trying my best!
+- GitHub: danuibro
