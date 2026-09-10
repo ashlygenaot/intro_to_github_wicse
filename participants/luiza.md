@@ -1,0 +1,5 @@
+- Major: Computer Science
+- School: University of South Florida
+- Year: Freshman    
+- Currently learning: React
+- GitHub: @ilu7za
