@@ -41,10 +41,6 @@ Copy the URL of your fork and run:
 ```bash
 git clone <your-fork-url>
 ```
-Then move into the project:
-```bash
-cd intro-to-github-wicse
-```
 ### 3. Create a Feature Branch
 
 Create a new branch for your contribution:
@@ -69,12 +65,12 @@ Create a new file inside the participants folder.
 
 Name it:
 ```bash
-participants/your-name.md
+your-name.md
 ```
 
 Example:
 ```bash
-participants/ashly.md
+ashly.md
 ```
 
 Add the following information:
