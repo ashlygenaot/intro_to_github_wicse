@@ -1,0 +1,6 @@
+- Name:Xhyrhi
+- Major:Information
+- School:USF
+- Year:Freshmen
+- Currently learning:mySQL
+- GitHub:xhyrhi7
