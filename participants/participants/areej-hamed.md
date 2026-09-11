@@ -1,0 +1,6 @@
+- Name: Areej
+- Major: Chemical Engineering
+- School: USF
+- Year: Freshman
+- Currently learning: GitHub
+- GitHub: AreejHamed-git
